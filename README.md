@@ -39,8 +39,8 @@ Here are some ideas to get you started:-->
 </p>
 <p align="center">
   <a href="https://github.com/Melisha14/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Melisha14&show_icons=true&theme=white&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Melisha14&theme=white&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Melisha14&show_icons=true&theme=white&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Melisha14&theme=white&hide_border=true" />
   </a>
 </p>
  <br>
