@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 
 ##👨‍💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,php,kotlin)](https://skillicons.dev)
 
 
 ##🧰 Frameworks and Libraries
@@ -26,8 +26,6 @@ Here are some ideas to get you started:-->
 
 
 ##🗄️ Databases and Cloud Hosting
-
-[![My Skills](https://skillicons.dev/icons?i=github pages)](https://skillicons.dev)
 
 
 ## GitHub Stats
