@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...
 - 📫 Reach me: hanlisa107@gmail.com or www.linkedin.com/in/melissatchamdja
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My favorite cuisine is thai, especially gaeng and Pad Thai
+- ⚡ Fun fact: My favorite cuisine is thai street food, especially gaeng and Pad Thai
 
 
 ##🛠️ My Favorite Tools
