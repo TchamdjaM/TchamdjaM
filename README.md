@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 
 
 
-### 👨‍Programming Languages
+### 👨‍💻Programming Languages
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,kotlin)](https://skillicons.dev)
