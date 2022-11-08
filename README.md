@@ -35,7 +35,7 @@ Here are some ideas to get you started:-->
 
 <p align="center">
   <a href="https://github.com/Melisha14/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melisha14&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Melisha14 :: Top Langs" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melisha14&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Melisha14 :: Top Langs" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Melisha14/">
