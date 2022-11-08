@@ -30,19 +30,18 @@ Here are some ideas to get you started:-->
  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
 
 
-### GitHub Stats
-
+### 📈GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Melisha14/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melisha14&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Melisha14 :: Top Langs" /></a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melisha14&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Melisha14 :: Top Langs" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/Melisha14/">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Melisha14&show_icons=true&theme=white&hide_border=true"/><br>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Melisha14&show_icons=true&theme=white&hide_border=true"/><br>
 </p>
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Melisha14&theme=white&hide_border=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Melisha14&theme=white&hide_border=true" />
   </a>
 </p>
 
