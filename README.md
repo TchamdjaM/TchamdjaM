@@ -14,19 +14,18 @@ Here are some ideas to get you started:-->
 
 
 
+### 👨‍Programming Languages
 
-###👨‍💻 Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,php,kotlin)](https://skillicons.dev)
 
 
-###  Frameworks and Libraries 👋
-###🧰 Frameworks and Libraries
+### 🧰Frameworks and Libraries 👋
 
 [![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap)](https://skillicons.dev)
 
 
-###🗄️ Databases and Cloud Hosting
+### 🗄️ Databases and Cloud Hosting 
 
 
 ### GitHub Stats
