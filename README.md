@@ -13,9 +13,11 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: My favorite cuisine is thai street food, especially gaeng and Pad Thai
 
 
-##🛠️ My Favorite Tools
+##🛠️ Tools
 
 ##👨‍💻 Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ##🧰 Frameworks and Libraries
