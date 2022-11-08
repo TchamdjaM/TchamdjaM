@@ -22,13 +22,15 @@ Here are some ideas to get you started:-->
 
 ### 🧰Frameworks and Libraries 👋
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma,miro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma)](https://skillicons.dev)
 
 
 ### 🗄️ Databases and Cloud Hosting 
 
 
 ### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Melisha14)](https://git.io/streak-stats)
 
 
 
