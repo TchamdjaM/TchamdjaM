@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,kotlin)](https://skillicons.dev)
 
 
-### 🧰Frameworks and Libraries 👋
+### :toolbox: Frameworks and Libraries 👋
 
 [![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma)](https://skillicons.dev)
 
