@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Javascript simple games
 - 🌱 I’m currently learning C#
 - 💬 Ask me about ...
-- 📫 Reach me: hanlisa107@gmail.com or www.linkedin.com/in/melissatchamdja
+- 📫 Reach me: tchamdjamel@gmail.com or www.linkedin.com/in/melissatchamdja
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite cuisine is thai street food, especially gaeng and Pad Thai
 
