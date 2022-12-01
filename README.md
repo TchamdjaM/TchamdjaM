@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Javascript simple games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & python
 - 💬 Ask me about ...
 - 📫 Reach me: tchamdjamel@gmail.com or www.linkedin.com/in/melissatchamdja
 - 😄 Pronouns: she/her
