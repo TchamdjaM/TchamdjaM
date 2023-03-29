@@ -8,16 +8,16 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Javascript simple games
 - 🌱 I’m currently learning C# & python
 - 💬 Ask me about ...
-- 📫 Reach me: tchamdjamel@gmail.com or www.linkedin.com/in/melissatchamdja
+- 📫 Reach me: www.linkedin.com/in/melissatchamdja
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My favorite cuisine is thai street food, especially gaeng and Pad Thai
+- ⚡ Fun fact: My favorite cuisine is thai street an korea food
 
 
 
 ### :computer: Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php,python,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,cs,php)](https://skillicons.dev)
 
 
 ### :toolbox: Frameworks and Libraries 👋
