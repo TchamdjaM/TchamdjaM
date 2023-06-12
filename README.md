@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 ### :computer: Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,js,cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,js,cs)](https://skillicons.dev)
 
 
 ### :toolbox: Frameworks and Libraries 👋
@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 
 ### 🗄️ Databases and Cloud Hosting 
  
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlserver,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
 
