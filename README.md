@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 ### :computer: Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,js,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,js,R,cs)](https://skillicons.dev)
 
 
 ### :toolbox: Frameworks and Libraries 👋
