@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Microsoft SQL server
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Power BI
+- 🌱 I’m currently learning R
 - 📫 Reach me: www.linkedin.com/in/melissatchamdja
 - ⚡ Fun fact: My favorite cuisine is thai street an korea food
 
