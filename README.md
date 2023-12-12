@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 
 ### :toolbox: Frameworks and Libraries 👋
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma,BI)](https://skillicons.dev)
 
 
 ### 🗄️ Databases and Cloud Hosting 
