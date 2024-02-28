@@ -45,6 +45,9 @@ Here are some ideas to get you started:-->
   </a>
 </p>
 
-< h2 align="center">📈 My current activity graph</h2>
-<a href="https://github.com/TchamdjaM/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=TchamdjaM&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+<h2 align="center">📈 My current activity graph</h2>
+<a href="https://github.com/TchamdjaM/github-readme-activity-graph">
+    <img alt="TchamdjaM's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=TchamdjaM&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+</a>
+
 
