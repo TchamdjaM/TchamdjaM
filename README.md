@@ -14,7 +14,7 @@
 ### :computer: Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,rhtml,css,php,)](https://github.com/TchamdjaM?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=python,r,js,html,css,php)](https://github.com/TchamdjaM?tab=repositories)
 
 
 ### :toolbox: Frameworks and Libraries 👋
