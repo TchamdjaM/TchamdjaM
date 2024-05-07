@@ -3,10 +3,8 @@
 <!--
 **TchamdjaM/TchamdjaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on Power BI
-- 🌱 I’m currently learning R
+- 🔭 I’m currently working on Pandas Course
+- 🌱 I’m currently learning Power BI
 - 📫 Reach me: www.linkedin.com/in/melissatchamdja
 - ⚡ Fun fact: My favorite cuisine is korea and thai street food
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:-->
 ### :computer: Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,js,r,cs)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,js,r,cs)](https://skillicons.dev)
 
 
 ### :toolbox: Frameworks and Libraries 👋
