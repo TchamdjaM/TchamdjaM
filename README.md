@@ -4,7 +4,7 @@
 **TchamdjaM/TchamdjaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-- 🔭 I’m currently working on Pandas Course
+- 🔭 I’m currently working on a Pandas Course website
 - 🌱 I’m currently learning Power BI
 - 📫 Reach me: www.linkedin.com/in/melissatchamdja
 - ⚡ Fun fact: My favorite cuisine is korea and thai street food
@@ -14,12 +14,12 @@
 ### :computer: Programming Languages
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,python,js,r,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,rhtml,css,php,)](https://github.com/TchamdjaM?tab=repositories)
 
 
 ### :toolbox: Frameworks and Libraries 👋
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma)]([https://skillicons.dev](https://github.com/TchamdjaM?tab=repositories))
 
 
 ### 🗄️ Databases and Cloud Hosting 
