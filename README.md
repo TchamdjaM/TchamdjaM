@@ -4,10 +4,10 @@
 **TchamdjaM/TchamdjaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-- 🔭 I’m currently working on harry potter character analysis with power BI
+- 🔭 I’m currently working on descriptive stats
 - 🌱 I’m currently learning machine learning
 - 📫 Reach me: www.linkedin.com/in/melissatchamdja
-- ⚡ Fun fact: My favorite cuisine is korea street food
+- ⚡ Fun fact: My favorite games: sims4 foreverrr
 
 
 
