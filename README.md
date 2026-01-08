@@ -2,62 +2,65 @@
 
 <!--
 **TchamdjaM/TchamdjaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+-->
 
 - 🔭 I’m currently working on descriptive stats
 - 🌱 I’m currently learning machine learning
-- 📫 Reach me: www.linkedin.com/in/melissatchamdja
-- ⚡ Fun fact: My favorite games: sims4 foreverrr
+- 📫 Reach me: [linkedin.com/in/melissatchamdja](https://www.linkedin.com/in/melissatchamdja)
+- ⚡ Fun fact: My favorite games: Sims 4 foreverrr
 
-
+---
 
 ### :computer: Programming Languages
 
+<p align="center">
+  <a href="https://github.com/TchamdjaM?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=python,r,js,html,css,php" alt="Programming languages" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,js,html,css,php)](https://github.com/TchamdjaM?tab=repositories)
+---
 
+### :toolbox: Frameworks and Libraries
 
-### :toolbox: Frameworks and Libraries 👋
+<p align="center">
+  <a href="https://github.com/TchamdjaM?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=symfony,bootstrap,figma" alt="Frameworks and tools" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,bootstrap,figma)]([https://skillicons.dev](https://github.com/TchamdjaM?tab=repositories))
+---
 
+### 🗄️ Databases and Cloud Hosting
 
-### 🗄️ Databases and Cloud Hosting 
- 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+<p align="center">
+  <a href="https://github.com/TchamdjaM?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+  </a>
+</p>
 
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+<p align="center">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" />
+</p>
 
+---
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/TchamdjaM/">
-    <img
-      width="50%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TchamdjaM&langs_count=6&theme=white&layout=compact&hide_border=true"
-      alt="TchamdjaM :: Top Langs"
-    />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TchamdjaM&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TchamdjaM/">
-    <img
-      width="50%"
-      src="https://github-readme-stats.vercel.app/api?username=TchamdjaM&show_icons=true&theme=white&hide_border=true"
-      alt="TchamdjaM :: GitHub Stats"
-    />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TchamdjaM&show_icons=true&theme=white&hide_border=true" alt="GitHub stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TchamdjaM/">
-    <img
-      width="50%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=TchamdjaM&theme=white&hide_border=true"
-      alt="TchamdjaM :: Streak Stats"
-    />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TchamdjaM&theme=white&hide_border=true" alt="GitHub streak" />
   </a>
 </p>
-
