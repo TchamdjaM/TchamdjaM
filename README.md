@@ -49,18 +49,24 @@
 
 <p align="center">
   <a href="https://github.com/TchamdjaM/">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TchamdjaM&langs_count=6&theme=white&layout=compact&hide_border=true" alt="Top languages" />
+    <img width="50%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TchamdjaM&langs_count=6&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400"
+      alt="Top languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TchamdjaM/">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TchamdjaM&show_icons=true&theme=white&hide_border=true" alt="GitHub stats" />
+    <img width="50%"
+      src="https://github-readme-stats.vercel.app/api?username=TchamdjaM&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400"
+      alt="GitHub stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TchamdjaM/">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TchamdjaM&theme=white&hide_border=true" alt="GitHub streak" />
+    <img width="50%"
+      src="https://streak-stats.demolab.com/?user=TchamdjaM&hide_border=true&theme=transparent"
+      alt="GitHub streak" />
   </a>
 </p>
